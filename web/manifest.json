@@ -1,0 +1,11 @@
+{
+  "name": "Momias de Guanajuato: La Leyenda",
+  "short_name": "Momias Guanajuato",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0175C2",
+  "theme_color": "#0175C2",
+  "description": "Un plataformas con fisica real, construido 100% con TDD",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
